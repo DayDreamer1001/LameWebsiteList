@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+  <head>
+    <title>This is a lame website</title>
+	
+	<style type="text/css">
+	  
+	  li.part1 {
+	    font-weight: bold;
+		font-family: Verdana;
+		text-align: left;
+	  }
+	  
+	  li.part2 {
+	    font-weight: bold;
+		font-family: Geneva;
+		text-align: center;
+	  }
+	  
+	  li.part3 {
+	    font-weight: bold;
+		font-family: Helvetica;
+		text-align: right;
+	  
+	  
+	  aside {
+	    border: 5px solid black;
+		text-align: right;
+		font-weight: bold;
+		font-style: italic;
+	  }
+	</style>
+  </head>
+  
+  <body>
+  
+  <article>
+    <header>
+	  <h1>This is my lame website list.</h1>
+	</header>
+	
+	<section>
+    
+	  <ul>
+        <li class="part1"><a href="#">About Us</a></li>
+	    <li class="part2"><a href="#">Contact Us</a></li>
+	    <li class="part3"><a href="#">Support</a></li>
+	  </ul>
+	
+	</section>
+	
+	<section>
+	  <p>
+	    As time goes on, we will release<br />
+	    updates of the game but only major ones.
+	  </p>
+	  
+	  <p>
+	    This might be weird but of course we will not post it on the website.<br />
+		Or anywhere else. Only the programmers will know of the updates and such.<br />
+		The gamers will only know of it when we release it and you open the game and it says,<br />
+		<aside>
+		<p>
+		There's an update.<br />
+		"Would you like to update the game"<br />
+		</p>
+		</aside>
+		Beside that, you will not know until then. And you will be able to keep the old files in case<br />
+		you don't like the new updates, you could just use old one, if you want.<br />
+		
+	  </p>
+	</section>
+  </article>
+  </body>
+</html>
